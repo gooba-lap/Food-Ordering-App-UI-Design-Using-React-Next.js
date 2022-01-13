@@ -15,6 +15,7 @@ export default function Home() {
       </Head>
       <Featured/>
       <PizzaList/>
+      
     </div>
   )
 }
